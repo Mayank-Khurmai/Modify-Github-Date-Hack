@@ -1,3 +1,3 @@
 # Modify-Github-Date-Hack
 
-Github Date Modifier with Bash Scripting and Shell Scripting
+Github Date Modifier using the Automated Bash Scripting and Shell Scripting
