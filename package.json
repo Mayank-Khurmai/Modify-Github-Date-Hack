@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Mayank-Khurmai/Modify-Github-Date-Hack/issues"
   },
-  "homepage": "https://github.com/Mayank-Khurmai/Modify-Github-Date-Hack#readme"
+  "homepage": "https://github.com/Mayank-Khurmai/Modify-Github-Date-Hack#readme",
+  "dependencies": {
+    "jsonfile": "^6.0.1"
+  }
 }
