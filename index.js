@@ -10,5 +10,5 @@ const json_data = {
 }
 
 jsonfile.writeFile(FILE_PATH, json_data);
-
+// git commit --date="2020-08-29T15:49:54+05:30"
 simplegit().add([FILE_PATH]).commit(DATE, {'--date':DATE}).push();
