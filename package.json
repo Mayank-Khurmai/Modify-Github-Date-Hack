@@ -1,0 +1,19 @@
+{
+  "name": "github-bot",
+  "version": "1.0.0",
+  "description": "Github date modifier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mayank-Khurmai/Modify-Github-Date-Hack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mayank-Khurmai/Modify-Github-Date-Hack/issues"
+  },
+  "homepage": "https://github.com/Mayank-Khurmai/Modify-Github-Date-Hack#readme"
+}
