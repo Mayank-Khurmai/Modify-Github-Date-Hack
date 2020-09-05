@@ -1,6 +1,6 @@
 # Modify-Github-Date-Hack
 
-Github Date Modifier using the Automated Bash Scripting and Shell Scripting
+Github Date Modifier Using the Automated Bash Scripting and Shell Scripting 
 
 
 ![Test Image 1](https://github.com/Mayank-Khurmai/Modify-Github-Date-Hack/blob/master/snapshot/screenshot.jpg)
